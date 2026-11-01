@@ -95,4 +95,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
-**Ayush Raj** - [GitHub](https://github.com/techieayusshh)
+**Anushka Pareek** 
