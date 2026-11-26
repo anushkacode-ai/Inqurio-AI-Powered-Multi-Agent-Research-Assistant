@@ -89,6 +89,12 @@ The screenshots below show the current Inquiro interface, document RAG workflow,
 
 Contributions are welcome. Fork the repository, create a branch for your change, and open a pull request with a clear description.
 
+##  Live Demo
+
+[**Try Inquiro Live →**](https://inquiro-ai-powered-multi-agent-research-assistant.streamlit.app)
+
+Upload a research paper, ask questions, request a summary, or use the general knowledge assistant.
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
