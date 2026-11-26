@@ -91,8 +91,7 @@ Contributions are welcome. Fork the repository, create a branch for your change,
 
 ##  Live Demo
 
-[**Try Inquiro Live →**](https://inquiro-ai-powered-multi-agent-research-assistant.streamlit.app)
-
+[**Try Inquiro Live →**](https://inqurio-ai-powered-multi-agent-research-assistant.streamlit.app/)
 Upload a research paper, ask questions, request a summary, or use the general knowledge assistant.
 
 ## License
